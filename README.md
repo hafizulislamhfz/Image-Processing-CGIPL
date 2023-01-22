@@ -1,2 +1,2 @@
-# Image-Processing-CGIPL-
+# Image-Processing-CGIPL
 Some algorithm of image processing.
